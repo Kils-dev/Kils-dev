@@ -25,26 +25,26 @@ I'm a passionate Sysadmin and Full Stack Developer with expertise in DevOps, Pow
 
 ## Skills
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp; 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>&nbsp; 
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>&nbsp; 
-  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp; 
-  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp; 
-  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" /></a>&nbsp; 
-  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&nbsp; 
-  <a href="hhttps://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp; 
-  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd"><img src="https://skillicons.dev/icons?i=bash" /></a>&nbsp; 
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp; 
-  <a href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference"><img src="https://skillicons.dev/icons?i=regex" /></a>&nbsp; 
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp; 
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" /></a>&nbsp; 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" /></a>&nbsp; 
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp; 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp; 
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" /></a>&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&nbsp; 
+  <a href="hhttps://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" /></a>&nbsp; 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=regex" /></a>&nbsp; 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 </p>
 <p align="center">
-  <a href="https://unity.com/pt"><img src="https://skillicons.dev/icons?i=unity" /></a>&nbsp; 
-  <a href="https://www.eclipse.org/downloads/"><img src="https://skillicons.dev/icons?i=eclipse" /></a>&nbsp; 
-  <a href="https://www.raspberrypi.com/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>&nbsp; 
-  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>&nbsp; 
-  <a href="https://azure.microsoft.com/en-us/"><img src="https://skillicons.dev/icons?i=azure" /></a>&nbsp; 
-  <a href="https://en.wikipedia.org/wiki/Internet_bot"><img src="https://skillicons.dev/icons?i=bots" /></a>
+  <a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" /></a>&nbsp; 
+  <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=eclipse" /></a>&nbsp; 
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>&nbsp; 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" /></a>&nbsp; 
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" /></a>&nbsp; 
+  <a href="https://en.wikipedia.org/wiki/Internet_bot" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bots" /></a>
 </p>
 
