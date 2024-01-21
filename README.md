@@ -23,7 +23,7 @@ I'm a passionate Sysadmin and Full Stack Developer with expertise in DevOps, Pow
   </tr>
 </p>
 
-##
+## Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,cs,css,php,java,js,jquery,dotnet,nodejs,bash,py,regex,mysql,powershell" /><br><br>
