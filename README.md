@@ -5,11 +5,11 @@ I'm a passionate Sysadmin and Full Stack Developer with expertise in DevOps, Pow
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Kils-dev">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Kilsbigpils&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=Kils-dev&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Kils-dev">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kilsbigpils&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kils-dev&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
@@ -18,7 +18,7 @@ I'm a passionate Sysadmin and Full Stack Developer with expertise in DevOps, Pow
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Kils-dev">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kilsbigpils&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kils-dev&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
     </td>
   </tr>
 </p>
