@@ -1,5 +1,5 @@
 ## Welcome 👋
-I'm a passionate Sysadmin and Full Stack Developer with expertise in DevOps, PowerShell, Python, C#, SQL, Java, Unity Development, and much more. I'm excited to share my projects with everyone inside of GitHub.
+I'm a passionate Sysadmin/Cybersec and Full Stack Developer with expertise in DevOps, PowerShell, Python, C#, SQL, Java, Unity Development, and much more.
 
 <p align="center">
   <tr>
